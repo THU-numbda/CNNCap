@@ -15,7 +15,7 @@ This repository is the official repository for our paper "CNN-Cap: Effective con
 
 For the 2-D pattern, we generated 10 datasets on 5 layer combinations, consisting of Pattern-B and Pattern-C. Please refer to `dataset.py` to learn how to load these datasets. For each datasets, we provide 2 models to predict the total capacitance and coupling capacitance respectively. 
 
-We have released these datasets and models on Baidu Netdist ([link, 链接](https://pan.baidu.com/s/18MhVy8RGy75B2q5Pj_Pf5w) with password 6sp8). After downloading and extracting the compressed file, you will get the following files:
+We have released these datasets and models on Baidu Netdist ([link, 链接](https://numbda.cs.tsinghua.edu.cn/~huangjc/CNNCap.zip). After downloading and extracting the compressed file, you will get the following files:
 ```
 data
 ├── 15nm_B_2_4_6.json
